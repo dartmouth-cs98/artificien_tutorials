@@ -18,3 +18,7 @@ Because this is a tutorial and this model is not built to make predictions on re
 ## Execution
 
 In order to execute the model, simply run all cells in order. You will recieve a json response with a "success" message if the model has been stored properly on our node.    
+
+## Example
+
+Your tutorial notebook should appear as [such](tutorial_sc_example.png)
