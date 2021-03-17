@@ -2,7 +2,7 @@
 
 ## Code Details
 
-This repo contains a single jupyter notebook with a simple linear regression model prewritten. Once the tutorial is complete, the linear regression model is sent to our backend services and made available for download and training by client devices. To simply view the tutorial walkthrough, open the jupyter notebook [on github](./tutorials/health-tutorial.ipynb). To actually run the tutorial, navigate to [JupyterhHub](https://jupyter.artificien.com), log in with your Artificien account, and run the cells in order.
+This repo contains a single jupyter notebook with a simple linear regression model prewritten. Once the tutorial is complete, the linear regression model is sent to our backend services and made available for download and training by client devices. To simply view the tutorial walkthrough, open the jupyter notebook [on github](./tutorials/health-tutorial.ipynb). To actually run the tutorial, navigate to [JupyterhHub](https://jupyter.artificien.com) and log in with your Artificien account. Then head to the `tutorials` directory, open up the `health-tutorial`, and run the cells in order.
 
 ## Execution
 
